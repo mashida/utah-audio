@@ -8,3 +8,4 @@
 2. `git clone git@github.com:mashida/utah-audio.git`
 3. `uv sync`
 4. `uv run main.py "link to youtube video"`
+   ![](https://github.com/mashida/utah-audio/blob/main/gifs/utah-audio%20example%20usage.gif)
