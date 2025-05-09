@@ -1,7 +1,10 @@
 [project]
 name = "youtube-downloader"
 version = "0.1.0"
-description = "Add your description here"
+description = "Download Youtube video as m4a file."
+authors = [
+    {name = "Nikita Serditov", email = "serditov.na@mail.ru"}
+]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
